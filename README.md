@@ -13,7 +13,7 @@ These instructions have been verified on:
 	sudo apt install iverilog
 	sudo apt install gtkwave
 
-# Clone this repo, build, and run blinky on your icestick
+# Clone this repo, build, and run blinky on your iCEstick
 
 Plug the IceStick into a USB port and then run the following from this cloned repo:
 
@@ -41,3 +41,22 @@ clock signal ticking and the counter advancing on the rising/positive edge of
 the 'clk' signal.
 
 ![selecting signals to view](./pics/waveform.png)
+
+
+# iCEstick Docs
+
+- iCEstick [page](https://www.latticesemi.com/icestick)
+- iCEstick Evaluation Kit User's Guide [pdf](http://www.latticesemi.com/view_document?document_id=50701)
+
+# iCE40 Docs
+
+Family page:
+
+- iCE40 Family [page](https://www.latticesemi.com/iCE40)
+
+Direct links to my favorite documents:
+
+- iCE40 LP/HX Datasheet [pdf](https://www.latticesemi.com/view_document?document_id=49312)
+- iCE40 Programming and Configuration Techincal Note TN1248 [pdf](https://www.latticesemi.com/~/media/LatticeSemi/Documents/ApplicationNotes/IK/iCE40ProgrammingandConfiguration.pdf)
+- iCE40 sysCLOCK PLL Design and User Guide [pdf](https://www.latticesemi.com/view_document?document_id=47778)
+- Memory Usage Guide for iCE40 Devices [pdf](https://www.latticesemi.com/view_document?document_id=47775)
