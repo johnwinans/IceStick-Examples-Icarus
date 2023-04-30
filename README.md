@@ -57,6 +57,6 @@ Family page:
 Direct links to my favorite documents:
 
 - iCE40 LP/HX Datasheet [pdf](https://www.latticesemi.com/view_document?document_id=49312)
-- iCE40 Programming and Configuration Techincal Note TN1248 [pdf](https://www.latticesemi.com/~/media/LatticeSemi/Documents/ApplicationNotes/IK/iCE40ProgrammingandConfiguration.pdf)
+- iCE40 Programming and Configuration Techincal Note TN1248 [pdf](https://www.latticesemi.com/view_document?document_id=46502)
 - iCE40 sysCLOCK PLL Design and User Guide [pdf](https://www.latticesemi.com/view_document?document_id=47778)
 - Memory Usage Guide for iCE40 Devices [pdf](https://www.latticesemi.com/view_document?document_id=47775)
