@@ -26,11 +26,18 @@ Plug the IceStick into a USB port and then run the following from this cloned re
 
 	make plot
 
-In gtkwave, open (double-click) the 'tb' object in the tree, click on 'uut'. Then,
-in the signals box below click on the 'clk' signal and ctrl-click on 'counter[24:0]'
+
+In gtkwave, open (double-click) the 'tb' object in the tree, click on 'uut'. 
+
+![selecting signals to view](./pics/selsig.png)
+
+
+Then, in the signals box below click on the 'clk' signal and ctrl-click on 'counter[24:0]'
 (so that they are both selected at the same time) and click the Append button at the 
 bottom left.  
 
 At this point, you can zoom and scroll around the waveform on the right to see the 
 clock signal ticking and the counter advancing on the rising/positive edge of 
 the 'clk' signal.
+
+![selecting signals to view](./pics/waveform.png)
