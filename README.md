@@ -5,6 +5,8 @@ an IceStick on a Linux platform.
 
 These instructions have been verified on:
 - Ubuntu 22.04.2 LTS 2023-04-30
+- 64-bit Raspbian Debian GNU/Linux 11 (bullseye) on 2023-06-25 (See [raspberry-pi-install](https://github.com/johnwinans/raspberry-pi-install) for details on how I set up mine.)
+
 
 # Install the tools
 
